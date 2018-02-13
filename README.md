@@ -1,3 +1,5 @@
 # loT-Stream-Data-Mining
 
-This is for tp of loT Stream Data Mining 2017-2018
+This is for the research in the domain: loT Stream Data Mining
+
+The project realize the program of Multi-label Hoeffding Tree in Stream data
